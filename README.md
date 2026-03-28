@@ -1,3 +1,4 @@
+```text
 Greedy Route:UPTM -> City B -> City D -> City C -> UPTM | Total Cost: 88
 Dynamic Programming Route: UPTM -> City B -> City D -> City C -> UPTM | Total Cost: 88
 Backtracking Route: UPTM -> City B -> City D -> City C -> UPTM  | Total Cost: 88
